@@ -1,3 +1,4 @@
 # EDL.iitb
-[Download PowerPoint file](path/to/your/file.pptx)
-<iframe src="https://github.com/imabhivaibhav/edl.iitb/blob/main/path/to/your/pptfile.pdf" width="100%" height="500px"></iframe>
+[Download PowerPoint file](https://github.com/imabhivaibhav/EDL.iitb/blob/main/pptfile.pptx)
+[View PowerPoint Presentation](https://github.com/imabhivaibhav/EDL.iitb/blob/main/pptfile.pptx)
+
