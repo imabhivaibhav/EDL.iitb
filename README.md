@@ -30,21 +30,16 @@ A High Sensitivity Optical Detection System for Spectrometry refers to a sophist
 The objective of the High Sensitivity Optical Detection System for Spectrometry is to provide precise and reliable analysis of light signals, enabling accurate measurements of various optical properties such as intensity, wavelength, and polarization. This system aims to enhance sensitivity, resolution, and data accuracy for applications in analytical chemistry, environmental monitoring, biomedical research, and other scientific fields.
 
 ## Methodologies
-Working Principle : We first understood how a spectrometer functions.
-Objective : We listed what all we wanted to accomplish and what is required to do that.
-Design : Brainstormed optical design and the electrical components required.
-BOM : Based on optical design and electrical requirements we made a list of components required
-Circuit Testing : We tested the photodiode and lock in amplifier circuit.
-PCB Design and fabrication : We designed a compact pcb to build a hand held system.
-3D printing : We printed stand to hold the lens.
-Laser Cutting : laser cut the structure of our system.
-Assembly and final testing : assembled the entire structure and tested the circuit
-![image](https://github.com/imabhivaibhav/EDL.iitb/assets/66539655/90df3b68-eabb-4bc4-b120-701d33bf7913)
 
-
-
-
-![image](https://github.com/imabhivaibhav/EDL.iitb/assets/66539655/602eb1b1-540c-4d99-940a-ae1dd9e3ff2a)
+- Working Principle : We first understood how a spectrometer functions.
+- Objective : We listed what all we wanted to accomplish and what is required to do that.
+- Design : Brainstormed optical design and the electrical components required.
+- BOM : Based on optical design and electrical requirements we made a list of components required Circuit
+- Testing : We tested the photodiode and lock in amplifier circuit.
+- PCB Design and fabrication : We designed a compact pcb to build a hand held system.
+- 3D printing : We printed stand to hold the lens.
+- Laser Cutting : laser cut the structure of our system.
+- Assembly and final testing : assembled the entire structure and tested the circuit
 
 
 ## Results
