@@ -1,5 +1,5 @@
 # EDL.iitb
-[<img src="https://github.com/imabhivaibhav/myproject/blob/main/spt1.jpg" alt="Image Description" width=100% height="350">](linkedin-profile-url)
+[<img src="https://github.com/imabhivaibhav/EDL.iitb/blob/main/spt1.jpg" alt="Image Description" width=100% height="350">](linkedin-profile-url)
 
 
 
