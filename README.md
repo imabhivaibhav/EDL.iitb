@@ -14,10 +14,8 @@ Welcome to our exciting venture within the Electrical Design Lab course (EDL) at
 4. [Results](#results)
 5. [Conclusion](#conclusion)
 6. [Contributors](#contributors)
-7. [License](#license)
-8. [How to Use](#how-to-use)
-9. [Additional Resources](#additional-resources)
-10. [Feedback and Support](#feedback-and-support)
+7. [Additional Resources](#additional-resources)
+8. [Feedback](#feedback)
 
 ## Introduction
 
@@ -76,5 +74,7 @@ The objective of the High Sensitivity Optical Detection System for Spectrometry 
 [Download file](https://github.com/imabhivaibhav/EDL.iitb/blob/main/Complete%20Zip.zip)
 
 
+## Feedback
 
+If you have any feedback, please reach out to us at contact@abhijeetvaibhav.tech
 
