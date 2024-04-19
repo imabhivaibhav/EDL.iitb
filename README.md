@@ -33,7 +33,17 @@ The objective of the High Sensitivity Optical Detection System for Spectrometry 
 
 ## Methodologies
 
-Describe the methodologies, techniques, tools, and frameworks used in the project.
+###Working Principle : We first understood how a spectrometer functions.
+###Objective : We listed what all we wanted to accomplish and what is required to do that.
+###Design : Brainstormed optical design and the electrical components required.
+###BOM : Based on optical design and electrical requirements we made a list of components required
+###Circuit Testing : We tested the photodiode and lock in amplifier circuit.
+###PCB Design and fabrication : We designed a compact pcb to build a hand held system.
+###3D printing : We printed stand to hold the lens.
+###Laser Cutting : laser cut the structure of our system.
+###Assembly and final testing : assembled the entire structure and tested the circuit
+![image](https://github.com/imabhivaibhav/EDL.iitb/assets/66539655/602eb1b1-540c-4d99-940a-ae1dd9e3ff2a)
+
 
 ## Results
 
