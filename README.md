@@ -50,7 +50,16 @@ The objective of the High Sensitivity Optical Detection System for Spectrometry 
 
 ## Conclusion
 
-Provide a conclusion, reflecting on the project's achievements, limitations, and potential future work.
+Key functionality demonstrated
+- Measured the intensity of different wavelength for a given sample
+Key lessons learnt
+- Importance of proper time management
+- Importance of coordination between team members
+- Importance of always having a backup plan
+- Importance of considering all the minute design aspects
+Future Work
+- Making a compact automated filter changing system
+- Adding a LCD display
 
 ## Contributors
 
