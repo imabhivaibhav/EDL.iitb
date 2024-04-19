@@ -42,7 +42,7 @@ The objective of the High Sensitivity Optical Detection System for Spectrometry 
 
 ## Results
 
-![Model](imabhivaibhav/EDL.iitb/blob/main/SpecWhite.png)
+![Model](https://github.com/imabhivaibhav/EDL.iitb/blob/main/SpecBlue.png)
 
 
 ## Conclusion
