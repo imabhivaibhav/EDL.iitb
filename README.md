@@ -1,5 +1,6 @@
 
-[<img src="https://github.com/imabhivaibhav/EDL.iitb/blob/main/spt1.jpg" alt="Image Description" width=100% height="350">](linkedin-profile-url)
+[<img src="![spt1](https://github.com/imabhivaibhav/EDL.iitb/assets/66539655/0116752c-adfd-4e5f-8891-1322bb2837bd)
+" alt="Image Description" width=100% height="350">](linkedin-profile-url)
 
 
 
