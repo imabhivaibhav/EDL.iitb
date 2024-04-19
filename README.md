@@ -1,7 +1,7 @@
 
 [<img src="(https://github.com/imabhivaibhav/EDL.iitb/assets/66539655/458c79e4-c894-4a13-84ae-8df737d507db)" alt="Image Description" width=100% height="350">](linkedin-profile-url)
 
-![spt1](https://github.com/imabhivaibhav/EDL.iitb/assets/66539655/458c79e4-c894-4a13-84ae-8df737d507db)
+
 
 
 
