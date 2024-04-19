@@ -53,19 +53,18 @@ Provide a conclusion, reflecting on the project's achievements, limitations, and
 
 ## Contributors
 
-List the contributors to the project, including their roles or contributions.
+- Ashwin Nagarwal (210070013)
+- Abhijeet Vaibhav (21d0070004)
+- Harish Gaidhani (210070030)
+- Saurabh Kumar (210070078)
 
-## License
 
-Specify the project's license, if applicable.
 
-## How to Use
-
-Provide instructions on how to use or run the project, including any dependencies or setup required.
 
 ## Additional Resources
 
-Include any additional resources, such as links to documentation, tutorials, or related projects.
+[Download file](https://github.com/imabhivaibhav/EDL.iitb/blob/main/Complete%20Zip.zip)
+
 
 
 
