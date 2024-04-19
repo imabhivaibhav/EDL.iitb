@@ -29,7 +29,7 @@ A High Sensitivity Optical Detection System for Spectrometry refers to a sophist
 
 ## Objective
 
-List the objectives or goals of the project.
+The objective of the High Sensitivity Optical Detection System for Spectrometry is to provide precise and reliable analysis of light signals, enabling accurate measurements of various optical properties such as intensity, wavelength, and polarization. This system aims to enhance sensitivity, resolution, and data accuracy for applications in analytical chemistry, environmental monitoring, biomedical research, and other scientific fields.
 
 ## Methodologies
 
