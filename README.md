@@ -19,7 +19,7 @@ Welcome to our exciting venture within the Electrical Design Lab course (EDL) at
 
 ## Introduction
 
-A High Sensitivity Optical Detection System for Spectrometry refers to a sophisticated setup used in scientific instrumentation for analyzing light. Spectrometry involves the measurement and analysis of the properties of light, such as its intensity, wavelength, and polarization. We deigned a portable spectrometer to measure the spectrum of a sample and analyze the absorbtion and transmittion of different wavelength.
+A High Sensitivity Optical Detection System for Spectrometry refers to a sophisticated setup used in scientific instrumentation for analyzing light. Spectrometry involves the measurement and analysis of the properties of light, such as its intensity, wavelength, and polarization. We deigned a portable spectrometer to measure the spectrum of a sample and analyze the absorption and transmission of different wavelengths.
 
 ## Objective
 
