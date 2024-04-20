@@ -27,15 +27,26 @@ The objective of the High Sensitivity Optical Detection System for Spectrometry 
 
 ## Methodologies
 
-- Working Principle : We first understood how a spectrometer functions.
-- Objective : We listed what all we wanted to accomplish and what is required to do that.
-- Design : Brainstormed optical design and the electrical components required.
-- BOM : Based on optical design and electrical requirements we made a list of components required Circuit
-- Testing : We tested the photodiode and lock in amplifier circuit.
-- PCB Design and fabrication : We designed a compact pcb to build a hand held system.
-- 3D printing : We printed stand to hold the lens.
-- Laser Cutting : laser cut the structure of our system.
-- Assembly and final testing : assembled the entire structure and tested the circuit
+### Understanding Spectrometer Functionality: 
+- Begin by comprehensively understanding the operational principles of a spectrometer to lay a solid foundation for the project. 
+### Objective Identification: 
+- Clearly define project objectives, outlining what needs to be achieved and the necessary steps to accomplish them. 
+### Design Phase: 
+- Brainstorm optical designs and identify essential electrical components required for the spectrometer's construction. 
+### Bill of Materials (BOM): 
+- Compile a detailed list of components necessary for the project, based on the finalized optical design and electrical requirements. 
+### Circuit Testing: 
+- Verify the functionality of critical components such as the photodiode and lock-in amplifier circuit through rigorous testing procedures. 
+### PCB Design and Fabrication: 
+- Design a compact PCB layout to accommodate the required circuitry, ensuring efficient assembly and integration into the handheld system. 
+### 3D Printing: 
+- Utilize 3D printing technology to fabricate stands or mounts required for housing optical components, enhancing stability and precision in the setup. 
+### Laser Cutting: 
+- Employ laser cutting techniques to fabricate structural elements of the spectrometer system, ensuring durability and precise alignment. 
+### Assembly and Final Testing: 
+- Assemble all components into the finalized structure, following established designs and guidelines.
+- Conduct comprehensive testing to evaluate the overall functionality and performance of the assembled spectrometer system. 
+By adhering to this structured methodology, we ensure a systematic approach to the development of the spectrometer, facilitating efficient progress and robust results.
 
 
 ## Results
@@ -47,6 +58,7 @@ The objective of the High Sensitivity Optical Detection System for Spectrometry 
 
 
 ## Conclusion
+
 
 ### Key functionality demonstrated
 - Measured the intensity of different wavelength for a given sample
