@@ -74,8 +74,7 @@ By adhering to this structured methodology, we ensure a systematic approach to t
 ## Contributors
 
 - Ashwin Nagarwal (210070013)
-- Abhijeet Vaibhav (21d0070004)
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theabhijeetvaibhav/)
+- Abhijeet Vaibhav (21d0070004) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theabhijeetvaibhav/)
 - Harish Gaidhani (210070030)
 - Saurabh Kumar (210070078)
 
